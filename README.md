@@ -70,11 +70,11 @@ You may have already done the steps in this section--an email was sent out throu
 
 Otherwise, to create your submit.cs account, please take the following steps:
 
-# Navigate to the following website: https://submit.cs.ucsb.edu
-# Click on the "Create User" button, and enter your Umail address.
-# Check your umail for a message with additional instructions—follow the instruction in the email to select a password and activate your account.
-# Go back to the website: https://submit.cs.ucsb.edu and login with your account.
-# Select "Join Class", and click on the link for CCS_CMPTGCS_20_s16
+1. Navigate to the following website: https://submit.cs.ucsb.edu
+1. Click on the "Create User" button, and enter your Umail address.
+1. Check your umail for a message with additional instructions—follow the instruction in the email to select a password and activate your account.
+1. Go back to the website: https://submit.cs.ucsb.edu and login with your account.
+1. Select "Join Class", and click on the link for CCS_CMPTGCS_20_s16
 
 At that point, you should be good to go.
 
