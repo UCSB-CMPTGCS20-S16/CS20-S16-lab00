@@ -33,6 +33,8 @@ These instructions assume <b>you are working with a Windows or Mac system.</b>
 
 For Windows or Mac, you can install Python 2.7.11 by visiting: http://python.org and clicking the Downloads link.
 
+## Be sure you get Python 2, not Python 3
+
 * BE SURE YOU GET PYTHON 2.7.11 (or a later version on the 2.7 branch.)  
 * FOR THIS COURSE, YOU DO NOT WANT ANY VERSION OF PYTHON STARTING WITH 3.
 
@@ -46,4 +48,46 @@ As for why we are using Python 2 rather than 3 in this course, the answer is:
 
 As a side note, the College of Engineering Python course, CMPSC 8, uses Python 3.    I say that only "FYI".  Fortunately, that isn't a constraint on this course.   If you decide to switch to Python 3 later, the transition is easy.  
 
+# Once you've downloaded Python 2.7.11, Start up Idle and enter your hello.py program
 
+You should have gotten a program along with your Python 2.7.11 download called "Idle".
+
+Idle is a program that allows you to create and modify Python programs.   It also allows you to check the program for formatting errors (syntax errors) and then run the program and see what it does.      
+
+I'll demonstrate the use of Idle in lecture, since its much easier to just follow along than to try to explain everything in a text document.   But if you need a demonstration, you can find one on YouTube.  For example: http://www.youtube.com/watch?v=Cdk20r2dgFU
+
+We are going to put our hello.py into Idle, and run it.
+
+# Uploading your program to submit.cs
+
+Next, we'll try submitting our program to submit.cs, which is an autograder system used by many Computer Science department courses at UCSB.    
+
+As this is a CCS course, we aren't really concerned about "grades", per se, so perhaps "autograder" is a misnomer in our case.  Rather, this is a system where we can check the correctness of our solution, and thereby check our understanding of what we are trying to learn.
+
+# Creating your submit.cs account
+
+You may have already done the steps in this section--an email was sent out through Gauchospace inviting you to do so.   If you have, you may skip this section.
+
+Otherwise, to create your submit.cs account, please take the following steps:
+
+# Navigate to the following website: https://submit.cs.ucsb.edu
+# Click on the "Create User" button, and enter your Umail address.
+# Check your umail for a message with additional instructions—follow the instruction in the email to select a password and activate your account.
+# Go back to the website: https://submit.cs.ucsb.edu and login with your account.
+# Select "Join Class", and click on the link for CCS_CMPTGCS_20_s16
+
+At that point, you should be good to go.
+
+# Navigate to the page for submitting lab00
+
+The page for submitting lab00 is here: https://submit.cs.ucsb.edu/form/project/452/submission
+
+Navigate to that page, and upload your `hello.py` file.
+
+Note that if you try to upload a file with a name that does not match EXACTLY the name `hello.py`, the system will not allow you to do it.  The name cannot be, for example, `Hello.py`, or `HelloWorld.py`, or `hell0.py` (note the zero as in '007' instead of the letter 'o' as in octopus.)  Only `hello.py` is permitted.   This will always be the case with submit.cs: it is very picky about the filename that it wants.
+
+Once you upload it, you should get a page that shows your submission is pending.
+
+Refresh that page, and you should get one that indicates with either red, or green, whether the test cases for your code passed or failed.
+
+If you got all green, and 100 points, then you passed, and you are finished with lab00!
